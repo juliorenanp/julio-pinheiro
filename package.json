@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/juliorenanp/julio-pinheiro/issues"
   },
-  "homepage": "https://github.com/juliorenanp/julio-pinheiro#readme"
+  "homepage": "https://github.com/juliorenanp/julio-pinheiro#readme",
+  "dependencies": {
+    "nes.css": "^2.3.0"
+  }
 }
