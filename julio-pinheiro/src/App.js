@@ -153,7 +153,7 @@ function App() {
         </div>
 
         <div class="nes-container">
-          <p>Development Consultant (May/2017 - Jan/2021)</p>
+          <p>Development Consultant at Santander Bank (May/2017 - Jan/2021)</p>
           <div class="lists">
             <ul class="nes-list is-disc">
               <li>
@@ -192,7 +192,7 @@ function App() {
             <ul>
               <p> Main Techs:</p>
               <div class="nes-badge">
-                <span class="is-dark">.NET Framework</span>
+                <span class="is-dark">.NET</span>
               </div>
               <div class="nes-badge">
                 <span class="is-primary">Oracle</span>
@@ -224,7 +224,232 @@ function App() {
             </ul>
           </div>
         </div>
+
+        <div class="nes-container">
+          <p>Development Analyst at Marketdata (Jul/2016 - May/2017)</p>
+          <div class="lists">
+            <ul class="nes-list is-disc">
+              <li>
+                <p>
+                  We were able to reduce the average time to build new
+                  technological tools by up to 30% using new technologies and
+                  agile methodologies during the development process.
+                </p>
+              </li>
+              <li>
+                <p>
+                  I was responsible for developing new solutions for Santander
+                  Bank, along with analytical information and reports.
+                </p>
+              </li>
+            </ul>
+
+            <ul>
+              <p> Main Techs:</p>
+              <div class="nes-badge">
+                <span class="is-dark">.NET</span>
+              </div>
+              <div class="nes-badge">
+                <span class="is-primary">Oracle</span>
+              </div>
+              <div class="nes-badge ">
+                <span class="is-dark">Angular</span>
+              </div>
+              <div class="nes-badge">
+                <span class="is-primary">Javascript</span>
+              </div>
+              <div class="nes-badge ">
+                <span class="is-dark">MVC5</span>
+              </div>
+              <div class="nes-badge">
+                <span class="is-success">Nodejs</span>
+              </div>
+              <div class="nes-badge ">
+                <span class="is-error">EXT Net MVC</span>
+              </div>
+              <div class="nes-badge">
+                <span class="is-dark">Dynatrace</span>
+              </div>
+              <div class="nes-badge ">
+                <span class="is-primary">Git</span>
+              </div>
+              <div class="nes-badge ">
+                <span class="is-dark">Jenkins</span>
+              </div>
+            </ul>
+          </div>
+        </div>
+
+        <div class="nes-container">
+          <p>Software Developer at BlueConecta (Feb/2016 - Jul/2016)</p>
+          <div class="lists">
+            <ul class="nes-list is-disc">
+              <li>
+                <p>
+                  I was responsible for developing the main product of the
+                  company and other products of Blue Conecta. Also working on
+                  data analytics and creation of business reports.
+                </p>
+              </li>
+            </ul>
+            <ul>
+              <p> Main Techs:</p>
+              <div class="nes-badge">
+                <span class="is-dark">.NET</span>
+              </div>
+              <div class="nes-badge">
+                <span class="is-primary">Oracle</span>
+              </div>
+              <div class="nes-badge ">
+                <span class="is-dark">SQL Server</span>
+              </div>
+              <div class="nes-badge">
+                <span class="is-primary">Javascript</span>
+              </div>
+              <div class="nes-badge ">
+                <span class="is-dark">MVC5</span>
+              </div>
+              <div class="nes-badge">
+                <span class="is-success">JQuery</span>
+              </div>
+              <div class="nes-badge ">
+                <span class="is-error">Entity</span>
+              </div>
+              <div class="nes-badge">
+                <span class="is-dark">REST API</span>
+              </div>
+              <div class="nes-badge ">
+                <span class="is-primary">Git</span>
+              </div>
+            </ul>
+          </div>
+        </div>
+
+        <div class="nes-container">
+          <p>Software Developer at Docwise (Jun/2014 - Feb/2016)</p>
+          <div class="lists">
+            <ul class="nes-list is-disc">
+              <li>
+                <p>
+                  I implemented electronic document management systems in more
+                  than fifteen law firms, some of which are the largest in
+                  Brazil, such as Pinheiro Neto, Machado Meyer, and Mattos
+                  Filho. At Docwise I was also responsible for the mesh
+                  optimization and tuning of the Oracle and SQL database. I also
+                  performed the automation of the creation of new management
+                  reports.
+                </p>
+              </li>
+              <li>
+                <p>
+                  I was responsible for developing the main product of the
+                  company and other products of Docwise. Also working on data
+                  analytics and creation of business reports.
+                </p>
+              </li>
+            </ul>
+            <ul>
+              <p> Main Techs:</p>
+              <div class="nes-badge">
+                <span class="is-dark">.NET</span>
+              </div>
+              <div class="nes-badge">
+                <span class="is-primary">Oracle</span>
+              </div>
+              <div class="nes-badge ">
+                <span class="is-dark">SQL Server</span>
+              </div>
+              <div class="nes-badge">
+                <span class="is-primary">Javascript</span>
+              </div>
+              <div class="nes-badge ">
+                <span class="is-error">Entity</span>
+              </div>
+            </ul>
+          </div>
+        </div>
+
+        <div class="nes-container">
+          <p>Software Developer at Build IT Solutions (Jul/2013 - Jun/2014)</p>
+          <div class="lists">
+            <ul class="nes-list is-disc">
+              <li>
+                <p>
+                  I was responsible for developing a lot of products of the
+                  company and other products of Build IT.
+                </p>
+              </li>
+              <li>
+                <p>
+                  I developed and implemented an information security
+                  vulnerability assessment and control system for the systems of
+                  one of the largest telecommunication companies in Brazil, TIM.
+                </p>
+              </li>
+            </ul>
+            <ul>
+              <p> Main Techs:</p>
+              <div class="nes-badge">
+                <span class="is-dark">.NET</span>
+              </div>
+              <div class="nes-badge">
+                <span class="is-primary">Oracle</span>
+              </div>
+              <div class="nes-badge">
+                <span class="is-dark">SQL Server</span>
+              </div>
+              <div class="nes-badge">
+                <span class="is-primary">Javascript</span>
+              </div>
+              <div class="nes-badge">
+                <span class="is-error">Entity</span>
+              </div>
+              <div class="nes-badge">
+                <span class="is-primary">Bootstrap</span>
+              </div>
+              <div class="nes-badge">
+                <span class="is-dark">NHibernate</span>
+              </div>
+            </ul>
+          </div>
+        </div>
+
+        <div class="nes-container">
+          <p>
+            Infrastructure Analyst at Central de Funcionamento (Jul/2012 -
+            Jul/2013)
+          </p>
+          <div class="lists">
+            <ul class="nes-list is-disc">
+              <li>
+                <p>
+                  I was responsible for the company's infrastructure, I carried
+                  out the installation, configuration, and administration of
+                  more than one thousand eight hundred computers. We were also
+                  able to reduce customer waiting times by 40% when we
+                  implemented a robust IVR system
+                </p>
+              </li>
+            </ul>
+            <ul>
+              <p> Main Techs:</p>
+              <div class="nes-badge">
+                <span class="is-dark">Cisco</span>
+              </div>
+              <div class="nes-badge">
+                <span class="is-primary">Oracle</span>
+              </div>
+              <div class="nes-badge">
+                <span class="is-dark">SQL Server</span>
+              </div>
+              <div class="nes-badge">
+                <span class="is-primary">Windows</span>
+              </div>
+            </ul>
+          </div>
+        </div>
       </div>
+      
     </div>
   );
 }
