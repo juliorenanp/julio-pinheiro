@@ -449,6 +449,49 @@ function App() {
           </div>
         </div>
       </div>
+
+      <div class="nes-container  with-title">
+        <p class="title">Education</p>
+        <div class="nes-container">
+          <p>Master of Business Administration - MBA AT PUCRS</p>
+          <div class="lists">
+            <ul class="nes-list is-circle">
+              <li>
+                <p>Leadership, Innovation and Management 3.0</p>
+              </li>
+              <li>
+                <p>Jan/2019 until Jan/2020</p>
+              </li>
+            </ul>
+          </div>
+
+          <p> Technologist AT SENAC BRAZIL</p>
+          <div class="lists">
+            <ul class="nes-list is-circle">
+              <li>
+                <p>Analysis and Systems Development</p>
+              </li>
+              <li>
+                <p>Jan/2013 until Dec/2015</p>
+              </li>
+            </ul>
+          </div>
+
+          <p> Technical  AT CEAP</p>
+          <div class="lists">
+            <ul class="nes-list is-circle">
+              <li>
+                <p>Computer Network</p>
+              </li>
+              <li>
+                <p>Jun/2010 until Jun/2012</p>
+              </li>
+            </ul>
+          </div>
+          
+        </div>
+      </div>
+
       
     </div>
   );
