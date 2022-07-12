@@ -30,7 +30,6 @@ function App() {
         </p>
       </div>
 
-      {/* SKILLS */}
       <div class="nes-container  with-title">
         <p class="title">Skills</p>
         <p>
@@ -47,7 +46,127 @@ function App() {
         </div>
       </div>
 
-      <div></div>
+      <div class="nes-container  with-title">
+        <p class="title">Experience</p>
+        <p>Senior System Analyst at Safra Bank (Jan/2021 until now)</p>
+        <div class="lists">
+          <ul class="nes-list is-disc">
+            <li>
+              {" "}
+              <p>
+                {" "}
+                I am responsible for leading a team of 8 people, raising
+                activities to be executed, planning quality deliveries and
+                developing software projects for Banco Safra's Financial Area
+              </p>
+              {"   "}
+            </li>
+
+            <li>
+              {" "}
+              <p>
+                {" "}
+                Responsible for developing and gathering requirements for the
+                implementation of Open Banking at Safra Bank, resulting in more
+                than 15,000 customers sharing their information monthly.{" "}
+              </p>
+            </li>
+
+            <li>
+              {" "}
+              <p>
+                {" "}
+                Development of Safra Bank's new car sales system, bringing more
+                than 1 million active customers and profits of more than 2
+                billion R$ per year.
+              </p>
+            </li>
+
+            <li>
+              {" "}
+              <p>
+                I led a project to develop a system for simulating and
+                contracting financing for solar panels.{" "}
+              </p>
+            </li>
+
+            <li>
+              <p>
+                I was able to improve the team's performance by 30% by creating
+                documentation and components that can be reused during the
+                software development process.{" "}
+              </p>
+            </li>
+
+            <li>
+              <p>
+                {" "}
+                I was able to decrease the time invested in meetings by 40%
+                using the agile SCRUM methodology.{" "}
+              </p>
+            </li>
+
+            <li>
+              Currently I am responsible for the search and correction of
+              information security vulnerabilities in all the systems used by
+              Banco Safra's Financial Department. Throughout the work we managed
+              to reduce the number of vulnerabilities by 90%.{" "}
+            </li>
+          </ul>
+          <ul>
+            <p> Main Techs:</p>
+
+            <div class="nes-badge">
+              <span class="is-dark">.NET Core</span>
+            </div>
+
+            <div class="nes-badge">
+              <span class="is-primary">Typescript</span>
+            </div>
+
+            <div class="nes-badge ">
+              <span class="is-dark">Angular</span>
+            </div>
+
+            <div class="nes-badge">
+              <span class="is-primary">Javascript</span>
+            </div>
+
+            <div class="nes-badge ">
+              <span class="is-dark">TailwindCss</span>
+            </div>
+
+            <div class="nes-badge">
+              <span class="is-success">Nodejs</span>
+            </div>
+
+            <div class="nes-badge ">
+              <span class="is-error">Oracle</span>
+            </div>
+
+            <div class="nes-badge">
+              <span class="is-dark">CheckMarx</span>
+            </div>
+
+            <div class="nes-badge ">
+              <span class="is-primary">Kibana</span>
+            </div>
+
+            <div class="nes-badge ">
+              <span class="is-dark">Jenkins</span>
+            </div>
+          </ul>
+        </div>
+
+        <p>Development Consultant (May/2017 - Jan/2021)</p>
+        <div class="lists">
+          <ul class="nes-list is-disc">
+            <li></li>
+
+            <li></li>
+          </ul>
+        </div>
+      </div>
     </div>
   );
 }
