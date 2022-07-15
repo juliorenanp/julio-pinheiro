@@ -453,10 +453,7 @@ function App() {
       <div class="nes-container  with-title">
         <p class="title">Education</p>
         <div class="nes-container">
-          <p>
-            Master of Business Administration - PUCRS (Jan/2019 -
-            Jan/2020)
-          </p>
+          <p>Master of Business Administration - PUCRS (Jan/2019 - Jan/2020)</p>
           <div class="lists">
             <ul class="nes-list is-circle">
               <li>
@@ -464,7 +461,7 @@ function App() {
               </li>
             </ul>
           </div>
-          <p>Technologist -  SENAC BRAZIL (Jan/2013 - Dec/2015)</p>
+          <p>Technologist - SENAC BRAZIL (Jan/2013 - Dec/2015)</p>
           <div class="lists">
             <ul class="nes-list is-circle">
               <li>
@@ -480,9 +477,29 @@ function App() {
               </li>
             </ul>
           </div>
+
+          <p>IT Tranings - Alura</p>
+          <div class="lists">
+            <ul class="nes-list is-circle">
+              <li>
+                <p>More than 66 courses completed</p>
+              </li>
+              <li>
+                <p>700 hours of training</p>
+              </li>
+              <li>
+                <p>
+                  {" "}
+                  <a href="https://cursos.alura.com.br/user/juliorenan/fullCertificate/d3de7d5baa50ba6d1801152dabc69ea1"  target="_blank">
+                    {" "}
+                    Link for the certificates
+                  </a>{" "}
+                </p>
+              </li>
+            </ul>
+          </div>
         </div>
       </div>
-
     </div>
   );
 }
