@@ -1,5 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 
+@font-face {
+  font-family: pokemon;
+  src: url(fonts/pokemon-normal.woff2) format('woff2'), url(fonts/pokemon-normal.woff) format('woff');
+}
+
+
 .App {
   background-color: #e0e0e0;
   font-size: calc(12px);
@@ -9,6 +15,9 @@
   margin-top: 15px;
 }
 
+#teste {
+  font-family: pokemon !important;
+}
 
  .nes-mario {
   height: 55px !important;

@@ -7,10 +7,11 @@ function App() {
       <header className="App-header">
         <div className="nes-container with-title is-centered">
           <p class="title">Welcome! Hello! </p>
-          <p>
+          <p className="teste">
             This is my creative resume! Hope you like it!{" "}
             <i class="nes-icon  like"></i>
           </p>
+          <p>This is my creative resume! Hope you like it!{" "}</p>
         </div>
       </header>
 
