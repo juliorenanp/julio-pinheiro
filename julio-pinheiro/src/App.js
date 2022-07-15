@@ -489,11 +489,13 @@ function App() {
               </li>
               <li>
                 <p>
-                  {" "}
-                  <a href="https://cursos.alura.com.br/user/juliorenan/fullCertificate/d3de7d5baa50ba6d1801152dabc69ea1"  target="_blank">
-                    {" "}
-                    Link for the certificates
-                  </a>{" "}
+                  Link for the {" "}
+                  <a
+                    href="https://cursos.alura.com.br/user/juliorenan/fullCertificate/d3de7d5baa50ba6d1801152dabc69ea1"
+                    target="_blank"
+                  >
+                    certificates
+                  </a>
                 </p>
               </li>
             </ul>
