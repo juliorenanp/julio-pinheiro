@@ -50,7 +50,9 @@ function App() {
         <p class="title">Experience</p>
 
         <div class="nes-container">
-          <p>Senior System Analyst at Safra Bank (Jan/2021 until now)</p>
+          <p>
+            <b>Senior System Analyst at Safra Bank (Jan/2021 until now)</b>
+          </p>
 
           <div class="lists">
             <ul class="nes-list is-disc">
@@ -153,7 +155,11 @@ function App() {
         </div>
 
         <div class="nes-container">
-          <p>Development Consultant at Santander Bank (May/2017 - Jan/2021)</p>
+          <p>
+            <b>
+              Development Consultant at Santander Bank (May/2017 - Jan/2021)
+            </b>
+          </p>
           <div class="lists">
             <ul class="nes-list is-disc">
               <li>
@@ -226,7 +232,9 @@ function App() {
         </div>
 
         <div class="nes-container">
-          <p>Development Analyst at Marketdata (Jul/2016 - May/2017)</p>
+          <p>
+            <b>Development Analyst at Marketdata (Jul/2016 - May/2017)</b>
+          </p>
           <div class="lists">
             <ul class="nes-list is-disc">
               <li>
@@ -281,7 +289,9 @@ function App() {
         </div>
 
         <div class="nes-container">
-          <p>Software Developer at BlueConecta (Feb/2016 - Jul/2016)</p>
+          <p>
+            <b>Software Developer at BlueConecta (Feb/2016 - Jul/2016)</b>
+          </p>
           <div class="lists">
             <ul class="nes-list is-disc">
               <li>
@@ -326,7 +336,9 @@ function App() {
         </div>
 
         <div class="nes-container">
-          <p>Software Developer at Docwise (Jun/2014 - Feb/2016)</p>
+          <p>
+            <b>Software Developer at Docwise (Jun/2014 - Feb/2016)</b>
+          </p>
           <div class="lists">
             <ul class="nes-list is-disc">
               <li>
@@ -370,7 +382,11 @@ function App() {
         </div>
 
         <div class="nes-container">
-          <p>Software Developer at Build IT Solutions (Jul/2013 - Jun/2014)</p>
+          <p>
+            <b>
+              Software Developer at Build IT Solutions (Jul/2013 - Jun/2014)
+            </b>
+          </p>
           <div class="lists">
             <ul class="nes-list is-disc">
               <li>
@@ -416,8 +432,10 @@ function App() {
 
         <div class="nes-container">
           <p>
-            Infrastructure Analyst at Central de Funcionamento (Jul/2012 -
-            Jul/2013)
+            <b>
+              Infrastructure Analyst at Central de Funcionamento (Jul/2012 -
+              Jul/2013)
+            </b>
           </p>
           <div class="lists">
             <ul class="nes-list is-disc">
@@ -492,7 +510,8 @@ function App() {
                   Link for the{" "}
                   <a
                     href="https://cursos.alura.com.br/user/juliorenan/fullCertificate/d3de7d5baa50ba6d1801152dabc69ea1"
-                    target="_blank" rel='noreferrer'
+                    target="_blank"
+                    rel="noreferrer"
                   >
                     certificates
                   </a>
@@ -509,7 +528,11 @@ function App() {
           <ul class="nes-list is-circle">
             <li>
               <p>
-                <a href="https://our-planet-juliopinheiro.vercel.app/" target="_blank" rel='noreferrer'>
+                <a
+                  href="https://our-planet-juliopinheiro.vercel.app/"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   Our planet
                 </a>{" "}
                 - Canvas with HTML, Javascript and React.
@@ -517,7 +540,11 @@ function App() {
             </li>
             <li>
               <p>
-                <a href="https://gameboy-julio.vercel.app/docs/index.html" target="_blank" rel='noreferrer'>
+                <a
+                  href="https://gameboy-julio.vercel.app/docs/index.html"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   Gameboy with Pokemon Yellow
                 </a>{" "}
                 - HTML, CSS, Javascript.
