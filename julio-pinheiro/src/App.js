@@ -492,7 +492,7 @@ function App() {
                   Link for the{" "}
                   <a
                     href="https://cursos.alura.com.br/user/juliorenan/fullCertificate/d3de7d5baa50ba6d1801152dabc69ea1"
-                    target="_blank"
+                    target="_blank" rel='noreferrer'
                   >
                     certificates
                   </a>
@@ -509,7 +509,7 @@ function App() {
           <ul class="nes-list is-circle">
             <li>
               <p>
-                <a href="https://our-planet-juliopinheiro.vercel.app/">
+                <a href="https://our-planet-juliopinheiro.vercel.app/" target="_blank" rel='noreferrer'>
                   Our planet
                 </a>{" "}
                 - Canvas with HTML, Javascript and React.
@@ -517,7 +517,7 @@ function App() {
             </li>
             <li>
               <p>
-                <a href="https://gameboy-julio.vercel.app/docs/index.html">
+                <a href="https://gameboy-julio.vercel.app/docs/index.html" target="_blank" rel='noreferrer'>
                   Gameboy with Pokemon Yellow
                 </a>{" "}
                 - HTML, CSS, Javascript.
