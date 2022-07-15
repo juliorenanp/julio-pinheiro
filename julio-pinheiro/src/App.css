@@ -10,6 +10,13 @@
 }
 
 
+ .nes-mario {
+  height: 55px !important;
+} 
+
+.nes-squirtle {
+  height: 25px !important;
+}
 /* .App-header {
   background-color: #282c34;
   min-height: 100vh;

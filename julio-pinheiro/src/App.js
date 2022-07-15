@@ -489,7 +489,7 @@ function App() {
               </li>
               <li>
                 <p>
-                  Link for the {" "}
+                  Link for the{" "}
                   <a
                     href="https://cursos.alura.com.br/user/juliorenan/fullCertificate/d3de7d5baa50ba6d1801152dabc69ea1"
                     target="_blank"
@@ -501,6 +501,37 @@ function App() {
             </ul>
           </div>
         </div>
+      </div>
+
+      <div class="nes-container  with-title">
+        <p class="title">Contact</p>
+
+        <section class="nes-container">
+          <section class="message-list">
+            <section class="message -left">
+              <i class="nes-mario"></i>
+              <div class="nes-balloon from-left">
+                <p>Nice CV Julio, can you pass me your contact?</p>
+              </div>
+            </section>
+
+            <section class="message -right">
+              <div class="nes-balloon from-right">
+                <p>
+                  For sure my friend:{" "}
+                  <a href="https://github.com/juliorenanp">
+                    <i class="nes-icon github"></i>
+                  </a>
+                  {" "}
+                  <a href="https://www.linkedin.com/in/juliorspinheiro/">
+                    <i class="nes-icon linkedin"></i>
+                  </a>
+                </p>
+              </div>
+              <i class="nes-squirtle"></i>
+            </section>
+          </section>
+        </section>
       </div>
     </div>
   );
