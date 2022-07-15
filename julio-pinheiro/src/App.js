@@ -504,6 +504,30 @@ function App() {
       </div>
 
       <div class="nes-container  with-title">
+        <p class="title">Personal Projects</p>
+        <div class="lists">
+          <ul class="nes-list is-circle">
+            <li>
+              <p>
+                <a href="https://our-planet-juliopinheiro.vercel.app/">
+                  Our planet
+                </a>{" "}
+                - Canvas with HTML, Javascript and React.
+              </p>
+            </li>
+            <li>
+              <p>
+                <a href="https://gameboy-julio.vercel.app/docs/index.html">
+                  Gameboy with Pokemon Yellow
+                </a>{" "}
+                - HTML, CSS, Javascript.
+              </p>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="nes-container  with-title">
         <p class="title">Contact</p>
 
         <section class="nes-container">
@@ -514,15 +538,13 @@ function App() {
                 <p>Nice CV Julio, can you pass me your contact?</p>
               </div>
             </section>
-
             <section class="message -right">
               <div class="nes-balloon from-right">
                 <p>
                   For sure my friend:{" "}
                   <a href="https://github.com/juliorenanp">
                     <i class="nes-icon github"></i>
-                  </a>
-                  {" "}
+                  </a>{" "}
                   <a href="https://www.linkedin.com/in/juliorspinheiro/">
                     <i class="nes-icon linkedin"></i>
                   </a>
