@@ -471,7 +471,7 @@ function App() {
       <div class="nes-container  with-title">
         <p class="title">Education</p>
         <div class="nes-container">
-          <p>Master of Business Administration - PUCRS (Jan/2019 - Jan/2020)</p>
+          <p><b>Master of Business Administration</b> - PUCRS (Jan/2019 - Jan/2020)</p>
           <div class="lists">
             <ul class="nes-list is-circle">
               <li>
@@ -479,7 +479,7 @@ function App() {
               </li>
             </ul>
           </div>
-          <p>Technologist - SENAC BRAZIL (Jan/2013 - Dec/2015)</p>
+          <p><b>Technologist</b> - SENAC BRAZIL (Jan/2013 - Dec/2015)</p>
           <div class="lists">
             <ul class="nes-list is-circle">
               <li>
@@ -487,7 +487,7 @@ function App() {
               </li>
             </ul>
           </div>
-          <p>Technical - CEAP (Jun/2010 - Jun/2012)</p>
+          <p><b>Technical</b> - CEAP (Jun/2010 - Jun/2012)</p>
           <div class="lists">
             <ul class="nes-list is-circle">
               <li>
@@ -496,7 +496,7 @@ function App() {
             </ul>
           </div>
 
-          <p>IT Tranings - Alura</p>
+          <p><b>IT Tranings</b> - Alura</p>
           <div class="lists">
             <ul class="nes-list is-circle">
               <li>
