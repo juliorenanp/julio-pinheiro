@@ -28,12 +28,15 @@
 }
 
 .blue-franky{
-  background-color: #7bd7ea;
+  background-color: #7bd7ea !important;
+  box-shadow: #ce6365 !important;
 }
 
 .red-franky{
   background-color: #ce6365;
 }
+
+
 
 /* .App-header {
   background-color: #282c34;
