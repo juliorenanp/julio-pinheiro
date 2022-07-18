@@ -26,6 +26,15 @@
 .nes-squirtle {
   height: 25px !important;
 }
+
+.blue-franky{
+  background-color: #7bd7ea;
+}
+
+.red-franky{
+  background-color: #ce6365;
+}
+
 /* .App-header {
   background-color: #282c34;
   min-height: 100vh;
