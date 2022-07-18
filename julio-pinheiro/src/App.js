@@ -34,17 +34,22 @@ function App() {
       <div class="nes-container  with-title">
         <p class="title">Skills</p>
         <p>
-          Well, I dont like to consider myself as a Programer lvl 99+, but I keep studing for it 
+          Well, I dont like to consider myself as a Full Stack lvl 99+, but I keep studing for it {"  "}
           <i class="nes-icon heart"></i>
           <i class="nes-icon heart"></i>
           <i class="nes-icon heart"></i>
         </p>
+        <p> Here some techs that I love to work with: </p>
         <div class="lists">
           <ul class="nes-list is-disc">
+            <li>.NET Core</li>
             <li>C#</li>
             <li>NodeJs</li>
             <li>Angular</li>
+            <li>React</li>
             <li>JavaScript</li>
+            <li>Oracle</li>
+            
           </ul>
         </div>
       </div>
